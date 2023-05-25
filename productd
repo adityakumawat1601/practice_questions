@@ -1,0 +1,4 @@
+print("Tell your query")
+n1=input("ask your mathematical query")
+n1=eval(n1)
+print(n1)
